@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.11.4](https://github.com/agentclientprotocol/agent-client-protocol/compare/v0.11.3...v0.11.4) - 2026-03-24
+
+### Other
+
+- update Cargo.lock dependencies
+
 ## [0.11.3](https://github.com/agentclientprotocol/agent-client-protocol/compare/v0.11.2...v0.11.3) - 2026-03-18
 
 ### Added
